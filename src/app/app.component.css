@@ -1,0 +1,12 @@
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(28, 198, 198);
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(3, 32, 33);
+  font-weight: 500;
+  font-style: italic;
+  font-size: 25px;
+}
